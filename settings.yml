@@ -1,0 +1,7 @@
+mongo:
+  username: test
+  password: test
+  hostname: localhost:27017
+  db: test
+
+secret_key: 4m6d2Bu9vkwT4FUXRDbaDy6oEcdfaXqfdqheZMwCqGY=
